@@ -12,7 +12,7 @@ public class PrivateController {
 
     @GetMapping
     public String getMessage() {
-        return "Ola";
+        return "Ola você conseguiu autenticar!!!!!";
     }
     
 
