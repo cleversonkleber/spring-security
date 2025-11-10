@@ -1,4 +1,4 @@
-package com.br.cleverson.spring_security_jwt;
+package com.br.cleverson.spring_security_jwt.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,5 +1,6 @@
 package com.br.cleverson.spring_security_jwt;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

@@ -1,4 +1,4 @@
-package com.br.cleverson.spring_security_jwt;
+package com.br.cleverson.spring_security_jwt.security;
 
 import java.time.Instant;
 import java.util.stream.Collectors;

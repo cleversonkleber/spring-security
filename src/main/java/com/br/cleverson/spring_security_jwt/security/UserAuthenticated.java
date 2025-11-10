@@ -1,10 +1,12 @@
-package com.br.cleverson.spring_security_jwt;
+package com.br.cleverson.spring_security_jwt.security;
 
 import java.util.Collection;
 import java.util.List;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
+
+import com.br.cleverson.spring_security_jwt.model.User;
 
 public class UserAuthenticated implements UserDetails{
 

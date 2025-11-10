@@ -1,4 +1,4 @@
-package com.br.cleverson.spring_security_jwt;
+package com.br.cleverson.spring_security_jwt.config;
 
 import java.security.interfaces.RSAPrivateKey;
 import java.security.interfaces.RSAPublicKey;
